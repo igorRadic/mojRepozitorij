@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Reverse Chordy</string>
+
+
+    <string name="Guitar">Guitar</string>
+    <string name="Keyboard">Keyboard</string>
+    <string name="Other">Other</string>
+    <string name="Enter">Enter</string>
+    <string name="Welcome">Welcome</string>
+    <string name="Intro">Choose your instrument and enter notes that you have played. App will tell you what chord is it. This app can search only 3 and 4 note chords. For all semitones use "#" except Bb.</string>
+
+
+</resources>
